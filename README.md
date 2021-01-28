@@ -1,1 +1,2 @@
 # Flask-framework_AWS-SNS_Sending_phoneValidationCode
+在Flask Framework中製作簡訊發送用戶隨機認證碼簡訊，並透過查詢用戶資料庫時間戳記來防止惡意濫用簡訊寄送功能!
